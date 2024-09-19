@@ -4,8 +4,8 @@ body {
 }
 
 .container {
-    background-color: black;
-    border: 10px solid rgb(75, 75, 75);
+    background-image: linear-gradient(90deg, black, rgb(84, 84, 84), black);
+    border: 10px solid rgb(40, 40, 40);
     border-radius: 10px;
     padding: 15px;
     width: 200px;
