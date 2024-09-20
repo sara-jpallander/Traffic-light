@@ -27,7 +27,9 @@ body {
 }
 
 .red:hover {
-    border: 15px solid rgb(227, 0, 0);
+    background-image: none;
+    background-color: rgb(243, 95, 95);
+    border: 15px solid rgb(255, 28, 28);
 }
 
 .yellow {
@@ -37,6 +39,8 @@ body {
 }
 
 .yellow:hover {
+    background-image: none;
+    background-color: rgb(255, 255, 129);
     border: 15px solid yellow;
 }
 
@@ -46,5 +50,7 @@ body {
 }
 
 .green:hover {
+    background-image: none;
+    background-color: rgb(114, 253, 114);
     border: 15px solid rgb(0, 234, 0);
 }
